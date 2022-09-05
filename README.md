@@ -2,9 +2,9 @@
    
     
 <h3>Tecnologias usadas</h3>
-* HTML
-* CSS 
-* Bootstrap
+*  HTML
+*  CSS 
+*  Bootstrap
 <br>
  Para visualizar o Projeto, como site. <a href="https://avalosdev.github.io/bootstrap/">Clique Aqui</a>
  <br>
