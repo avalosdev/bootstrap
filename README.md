@@ -1,8 +1,12 @@
 <h2>Projeto Bootstrap</h2>
-   <p>Construindo páginas para internet (site)</p>
-
+   
     
 <h3>Tecnologias usadas</h3>
-<p>HTML, CSS e Bootstrap</p>
+* HTML
+* CSS 
+* Bootstrap
 <br>
- Para Visualizar o Projeto. <a href="https://avalosdev.github.io/bootstrap/">Clique Aqui</a>
+ Para visualizar o Projeto, como site. <a href="https://avalosdev.github.io/bootstrap/">Clique Aqui</a>
+ <br>
+ 
+ Para visualizar a pasta raiz do Projeto. <a href="https://github.com/avalosdev/bootstrap/tree/master">Clique Aqui</a>
